@@ -1,4 +1,4 @@
-# Thomas Vergnaud
+# Thomas V
 
 **Bordeaux-based senior full-stack product engineer** building web applications, backend APIs, integrations and AI-powered workflows.
 
